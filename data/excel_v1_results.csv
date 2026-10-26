@@ -1,0 +1,27 @@
+risk_type_id,risk_type,likelihood,impact,inherent,residual,level
+R01,Strategic Risk,5,5,25,13,MEDIUM
+R02,Product Risk,4,3,12,3,LOW
+R03,Digitization Risk,5,5,25,13,MEDIUM
+R04,Reputational Risk,5,5,25,6,MEDIUM
+R05,Process Risk,5,5,25,13,MEDIUM
+R06,Third Party Risk,5,4,20,5,MEDIUM
+R07,Conduct Risk,5,5,25,6,MEDIUM
+R08,Disaster Recovery Risk,5,5,25,13,MEDIUM
+R09,Project Risk,4,5,20,5,MEDIUM
+R10,People Risk,5,4,20,10,MEDIUM
+R11,Physical Security Risk,5,5,25,13,MEDIUM
+R12,Credit Risk,5,5,25,13,MEDIUM
+R13,Market Risk — IRBB,5,5,25,19,HIGH
+R14,Market Risk — IRTB,4,3,12,6,MEDIUM
+R15,Liquidity Risk — LCY,4,5,20,10,MEDIUM
+R16,Liquidity Risk — FCY,4,3,12,3,LOW
+R17,Fraud Risk,5,4,20,5,MEDIUM
+R18,Regulatory Compliance Risk,5,5,25,13,MEDIUM
+R19,Regulatory Risk,5,5,25,13,MEDIUM
+R20,KYC Compliance Risk,5,5,25,13,MEDIUM
+R21,Legal Risk,5,3,15,8,MEDIUM
+R22,Cyber Risk,5,5,25,13,MEDIUM
+R23,Data Privacy Risk,5,5,25,6,MEDIUM
+R24,System Risk,5,5,25,13,MEDIUM
+R25,ESG Risk,4,3,12,6,MEDIUM
+R26,Health & Safety Risk,4,5,20,10,MEDIUM
